@@ -1,0 +1,67 @@
+.hjt-module{margin-top: 10px;}
+.hjt-module .boxed{height: 100%;}
+.hjt-module .panel-body{padding: 10px;}
+/*.tab-main{padding: 10px;}*/
+.hjt-module .detail-box{padding: 0;margin: 0;}
+.hjt-module .ant-table-scroll {overflow: auto;border: 1px solid #e9e9e9;border-radius: 6px;}
+.hjt-module .ant-table-pagination{margin: 15px 0;}
+.hjt-module .ant-row .detail-box{ margin:0;}
+.hjt-module .ant-notification-notice-close-x:after{content: '';}
+.hjt-module .ant-notification{position: absolute;top: 0;margin-right: 0;overflow-y: scroll;height: 100%;}
+.hjt-isSure .ant-form-item{margin-bottom: 8px;}
+.hjt-module .ant-table th.ant-table-selection-column, .ant-table td.ant-table-selection-column{width: 20px;}
+.hjt-module .ant-notification-notice-message{margin-bottom: 10px;}
+.hjt-module .addPowerBt{position: absolute;top:10px;left: 0;}
+.hjt-module .deleteBt{position: absolute;top:10px;left: 220px;}
+.hjt-module .exportData{position: absolute;top:10px;left: 120px;}
+.hjt-isSure .ant-upload{display: inline-block;}
+.hjt-module .ant-notification-notice-btn{margin: 0;}
+.hjt-isSure .upload{width: 100px;display: inline;}
+.hjt-module .ant-form-horizontal{width: 300px;}
+.hjt-isSure .ant-upload.ant-upload-select{float: right;margin-left: 20px;}
+.hjt-module .closePopup{position: absolute; bottom: 3px;left: 3px;}
+.hjt-module .ant-input-wrapper #IDcard{width: 130px;}
+.hjt-module .ant-form-item-control {width: 195px;}
+.hjt-isSure .IDcardSearch{margin-left: 10px;}
+.hjt-module .popupTitle{height: 35px;position: relative;font-size: 14px;font-family: "微软雅黑"}
+.hjt-module .saveRely{position: absolute;top: 0;right: 0;}
+.hjt-isSure .ant-form-item-control {width: 200px;}
+.hjt-isSure .ant-form-item-label{width:90px;}
+.hjt-isSure #IDcard {width: 90px;}
+.hjt-isSure .uploadWrap{width: 300px;height: 60px;}
+.hjt-isSure .upload{margin-top: 30px;width: 80px;float: right;margin-left: 30px;}
+.hjt-module .ant-notification{width: auto;}
+.hjt-module .ant-notification-notice-closable{padding: 10px;}
+.hjt-module .popupMask{height: 100%;width: 100%;position: fixed;top: 0;left: 0;background: #000;opacity: 0.3;z-index: 100;}
+
+.hjt-ifSure .ant-modal{width: 240px;}
+.hjt-ifSure .ant-modal-body{padding: 0;}
+.hjt-ifSure .ant-modal-content{width: 240px;height: 170px;top: 30%;}
+.hjt-ifSure .ant-modal-header{padding: 10px;}
+.hjt-ifSure .ant-modal-footer{width: 240px;border: none;text-align: center;}
+.hjt-ifSure{padding: 0;position: absolute; top: 40%;left: 50%;margin-left: -100px;}
+.hjt-ifSure .isDelete{height: 70px;text-align: center;line-height: 70px;font-size: 14px;}
+
+.hjt-isSure .leaveForm{width:330px;height:100%;position: fixed;top:0;right: 0;padding:10px;background: #ccc;}
+.hjt-isSure .reasonSelect{width:310px;margin-top: 10px;}
+.hjt-isSure .leaveFormTitle{height:50px;font-size: 14px;font-family: "微软雅黑";line-height: 30px;padding:10px;background: #343434;color: #fff;}
+.hjt-isSure .leaveFormBt{float: right;}
+.hjt-isSure .ant-modal-close-x:before{content: "";}
+
+.hjt-isSure{position: fixed;top: 0;right: 0;left: auto;height: 100%;margin: 0;background: #343434;padding: 10px;padding-top: 0;overflow: auto;}
+.hjt-isSure .ant-modal-content{width: 310px;color: #fff;background: #343434;}
+.hjt-isSure .ant-modal-header{padding:0;border-bottom: 1px solid #5d5c61;}
+.hjt-isSure .ant-select-selection{background: #53585e;color: #fff;border: none;width: 195px;}
+.hjt-module .ant-modal-mask{background-color: rgba(55, 55, 55, 0.3);}
+
+.hjt-isSure .ant-col-14{margin-left: 10px;}
+.hjt-isSure .ant-modal-body{margin-top: 15px;}
+.hjt-isSure input[type="text"] {background: #53585e;border: none;color: #fff;}
+.hjt-isSure .ant-form-item-label label {color: #fff;font-family: "微软雅黑";}
+
+.hjt-module .ant-table-fixed-header .ant-table-scroll .ant-table-header {overflow: hidden;margin-bottom: 0;height: 48px;padding-right: 15px;}
+.hjt-module .ant-table th,.hjt-module .ant-table td {line-height: 10px;}
+.hjt-module .ant-table th,.hjt-module .ant-table td{text-align: center;}
+.hjt-module .peopleDetail{color: #51ace1;}
+.hjt-module .footer{width: 100%; height: 50px;margin-top: 10px;position: relative;bottom: 0;}
+.hjt-module .ant-pagination{position: absolute;top:10px;right: 0;}
